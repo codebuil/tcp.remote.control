@@ -1,4 +1,4 @@
-# current.empty.on work please che it lather
+# android usb command
 
 
 
