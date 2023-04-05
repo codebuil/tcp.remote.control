@@ -2,3 +2,7 @@
 
 
 
+control you raspbarry py pico from the usb phone
+
+
+
